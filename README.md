@@ -49,7 +49,7 @@ unzip ForLinux.zip
 cd ForLinux
 chmod +x install.sh
 ./install.sh
-
+```
 
 How to Use
 Install ShareViaLAN on both devices.
