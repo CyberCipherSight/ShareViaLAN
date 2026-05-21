@@ -50,47 +50,52 @@ cd ForLinux
 chmod +x install.sh
 ./install.sh
 ```
+## How to Use
 
-How to Use
-Install ShareViaLAN on both devices.
-Connect both devices to the same Wi-Fi, hotspot, or LAN.
-Open ShareViaLAN on both devices.
-Wait for nearby devices to appear.
-Select the device you want to send files or messages to.
-Choose a file, video, image, document, or other item.
-Send it directly over the local network.
-Android to PC Usage
+1. Install ShareViaLAN on both devices.
+2. Connect both devices to the same Wi-Fi, hotspot, or LAN.
+3. Open ShareViaLAN on both devices.
+4. Wait for nearby devices to appear.
+5. Select the device you want to send files or messages to.
+6. Choose a file, video, image, document, or other item.
+7. Send it directly over the local network.
+
+## Android to PC Usage
 
 To connect your phone with your computer:
 
-Install ShareViaLAN on Android.
-Install ShareViaLAN on Windows or Linux.
-Connect phone and PC to the same Wi-Fi or hotspot.
-Open the app on both devices.
-Select your PC from the Android app.
-Start sending files.
-Troubleshooting
-Device not showing
+1. Install ShareViaLAN on Android.
+2. Install ShareViaLAN on Windows or Linux.
+3. Connect your phone and PC to the same Wi-Fi or hotspot.
+4. Open the app on both devices.
+5. Select your PC from the Android app.
+6. Start sending files.
+
+## Troubleshooting
+
+### Device Not Showing
 
 Try these steps:
 
-Make sure both devices are on the same Wi-Fi/LAN
-Disable VPN if it blocks local network discovery
-Allow firewall permission on Windows/Linux
-Restart the app on both devices
-Try using mobile hotspot and connect both devices to it
-File transfer failed
+- Make sure both devices are on the same Wi-Fi/LAN.
+- Disable VPN if it blocks local network discovery.
+- Allow firewall permission on Windows/Linux.
+- Restart the app on both devices.
+- Try using a mobile hotspot and connect both devices to it.
 
-Try:
+### File Transfer Failed
 
-Keep both devices unlocked during transfer
-Allow storage/file permissions
-Disable battery optimization for ShareViaLAN on Android
-Check that both devices remain connected to the same network
-Windows firewall issue
+Try these steps:
+
+- Keep both devices unlocked during transfer.
+- Allow storage/file permissions.
+- Disable battery optimization for ShareViaLAN on Android.
+- Check that both devices remain connected to the same network.
+
+### Windows Firewall Issue
 
 If Windows asks for network permission, allow ShareViaLAN on private networks.
 
-Privacy
+## Privacy
 
 ShareViaLAN is designed for local sharing. Files are transferred directly between your devices on the local network. The app does not upload your files to cloud servers.
