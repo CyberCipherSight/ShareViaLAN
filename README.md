@@ -1,2 +1,96 @@
 # ShareViaLAN
-Offline LAN file sharing, messaging, and video streaming for Android, iOS, Linux, Windows, and macOS.
+
+ShareViaLAN is a local network file sharing and communication app. It allows Android, Windows, and Linux devices connected to the same Wi-Fi, hotspot, or LAN to share files, messages, and media directly without using cloud servers.
+
+## Features
+
+- Send files between Android, Windows, and Linux
+- Share videos, images, documents, APKs, ZIPs, and other file types
+- Local device discovery
+- Device-to-device transfer over Wi-Fi/LAN
+- Local chat and messaging
+- No cloud upload required
+- Works without internet when devices are on the same local network
+
+## How ShareViaLAN Works
+
+ShareViaLAN uses your local network to find nearby devices running the app. Once devices are discovered, you can select a device and send files or messages directly.
+
+Your files stay inside your local network and are not uploaded to any server.
+
+## Download
+
+### Android
+
+Install from Google Play testing:
+
+https://play.google.com/apps/testing/com.cybersight.sharefilevialan
+
+### Windows
+
+Download the Windows installer from the GitHub Releases section:
+
+`ShareViaLAN-Setup-1.0.0.exe`
+
+Run the installer and open ShareViaLAN.
+
+### Linux
+
+Download:
+
+`ForLinux.zip`
+
+Extract it, then follow the included installation instructions.
+
+Example:
+
+```bash
+unzip ForLinux.zip
+cd ForLinux
+chmod +x install.sh
+./install.sh
+
+
+How to Use
+Install ShareViaLAN on both devices.
+Connect both devices to the same Wi-Fi, hotspot, or LAN.
+Open ShareViaLAN on both devices.
+Wait for nearby devices to appear.
+Select the device you want to send files or messages to.
+Choose a file, video, image, document, or other item.
+Send it directly over the local network.
+Android to PC Usage
+
+To connect your phone with your computer:
+
+Install ShareViaLAN on Android.
+Install ShareViaLAN on Windows or Linux.
+Connect phone and PC to the same Wi-Fi or hotspot.
+Open the app on both devices.
+Select your PC from the Android app.
+Start sending files.
+Troubleshooting
+Device not showing
+
+Try these steps:
+
+Make sure both devices are on the same Wi-Fi/LAN
+Disable VPN if it blocks local network discovery
+Allow firewall permission on Windows/Linux
+Restart the app on both devices
+Try using mobile hotspot and connect both devices to it
+File transfer failed
+
+Try:
+
+Keep both devices unlocked during transfer
+Allow storage/file permissions
+Disable battery optimization for ShareViaLAN on Android
+Check that both devices remain connected to the same network
+Windows firewall issue
+
+If Windows asks for network permission, allow ShareViaLAN on private networks.
+
+Privacy
+
+ShareViaLAN is designed for local sharing. Files are transferred directly between your devices on the local network. The app does not upload your files to cloud servers.
