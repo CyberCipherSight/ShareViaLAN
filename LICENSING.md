@@ -1,27 +1,22 @@
 # ShareViaLAN licensing
 
-Current project development is offered under the unmodified
-[PolyForm Noncommercial License 1.0.0](LICENSE). It permits noncommercial use,
-modification, and redistribution, including community contributions. It does not
-generally grant commercial use or resale rights. This is broader than a ban on
-selling copies: ordinary commercial use can also require separate permission.
-The full license controls, including its permitted organizational uses.
+ShareViaLAN's current source and documentation are available under the
+[MIT license](LICENSE), except for third-party material carrying its own terms.
+This is an open-source license that permits use, modification, redistribution,
+and selling copies, including commercial use. Preserve the copyright and
+license notice when distributing copies or substantial portions of the code.
+The software is supplied without warranty, as stated in the license.
 
-This is a source-available project. The commercial-use restriction means it is
-not OSI-approved open source. Commercial permission must be obtained separately
-from the relevant copyright holders; the public license does not grant it.
+## License history
 
-## Earlier MIT publication
+The complete-source publication at commit
+`d49835e6cb7c769fd80fffae1d43716c4baff7ac` used MIT. Commit
+`6c3d8c5` subsequently offered ongoing development under PolyForm Noncommercial
+1.0.0. The maintainer has now chosen MIT again for current and future development.
+The previous MIT notice is retained in [LICENSES/MIT-previous.txt](LICENSES/MIT-previous.txt).
 
-The repository already carried an MIT license. Its first complete-source
-publication, commit `d49835e6cb7c769fd80fffae1d43716c4baff7ac`, also carried MIT.
-The maintainer subsequently selected noncommercial terms for ongoing development.
-
-Those earlier snapshots remain available under MIT, including its commercial
-permissions. This change does not attempt to withdraw rights already granted
-under MIT or make a retroactive no-sale restriction. The previous notice is
-preserved in [LICENSES/MIT-previous.txt](LICENSES/MIT-previous.txt). Consult the
-license accompanying the specific version you use.
+This update does not remove any license rights granted for earlier snapshots.
+Consult the license accompanying a historical version when using that snapshot.
 
 ## Dependencies and third-party material
 
@@ -33,11 +28,12 @@ source or binaries.
 
 ## Contributions
 
-New contributions are accepted under PolyForm Noncommercial 1.0.0, as described
-in [CONTRIBUTING.md](CONTRIBUTING.md). Contributors retain copyright in their
-work. They must have permission to submit it under these terms.
+New contributions are accepted under MIT, as described in
+[CONTRIBUTING.md](CONTRIBUTING.md). Contributors retain copyright in their work
+and must have permission to submit it under those terms. Pull requests are
+reviewed by the maintainer before merging.
 
 ## References
 
-- [Official PolyForm Noncommercial terms](https://polyformproject.org/licenses/noncommercial/1.0.0)
+- [MIT license text and approval](https://opensource.org/license/mit)
 - [Open Source Definition](https://opensource.org/osd)

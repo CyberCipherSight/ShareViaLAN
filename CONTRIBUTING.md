@@ -28,7 +28,8 @@ names, addresses, paths, and network information in reports with examples.
 
 Report ordinary bugs through GitHub Issues with the app version, operating
 system, expected behavior, and reproduction steps. Follow [SECURITY](SECURITY.md)
-for sensitive reports. New contributions are made under the project's PolyForm
-Noncommercial 1.0.0 license. Submit only work you have permission to contribute
-under those terms, and retain third-party copyright and license notices. See
-[Licensing](LICENSING.md) for previously published MIT versions.
+for sensitive reports. New contributions are made under the project's MIT
+license. Submit only work you have permission to contribute under those terms,
+and retain third-party copyright and license notices. Fork the repository,
+create a branch, and submit a pull request; the maintainer reviews changes
+before they are merged. See [Licensing](LICENSING.md) for license history.
