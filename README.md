@@ -1,9 +1,16 @@
 # ShareViaLAN
 
-ShareViaLAN is an open-source Flutter app for sharing files and messages between
+ShareViaLAN is a source-available Flutter app for sharing files and messages between
 Android, Linux, and Windows devices on the same Wi-Fi, hotspot, or LAN. Transfers
-go directly between devices without a cloud file server. The project is licensed
-under [MIT](LICENSE).
+go directly between devices without a cloud file server. Current development is
+offered under [PolyForm Noncommercial 1.0.0](LICENSE), welcoming noncommercial
+use, modifications, and contributions. Commercial use, including resale, needs
+separate permission. These terms are broader than a resale-only restriction.
+
+Earlier versions published under MIT retain that license. See
+[Licensing](LICENSING.md) for the history and third-party exceptions. Because
+the current terms restrict commercial use, this is source-available software
+rather than OSI-approved open source.
 
 - [Android on Google Play](https://play.google.com/store/apps/details?id=com.cybersight.sharefilevialan)
 - [Android testing opt-in](https://play.google.com/apps/testing/com.cybersight.sharefilevialan)
